@@ -3,7 +3,7 @@ title: deSouq
 baseURL: "/"
 params:
   palette: yellow
-  snipcart_api_key: '000'
+  snipcart_api_key: ''
   favicon: "/images/deSouq logo SM.jpg"
   logo_light: "/images/cool-whale.jpg"
   bg_image_primary: "/images/deSouq text rasterized layer.png"
