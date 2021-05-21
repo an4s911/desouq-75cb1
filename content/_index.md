@@ -66,8 +66,8 @@ sections:
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Planty Theme
-  description: The preview of the Planty theme
+  title: deSouq
+  description: Online Shopping Site
   extra:
   - name: og:type
     value: website
