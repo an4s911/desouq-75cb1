@@ -1,11 +1,11 @@
 ---
 title: Home
-white_header: true
+white_header: false
 sections:
 - type: hero_section
   template: hero_section
   section_id: hero_section
-  background_image: "/images/deSouq text rasterized layer.png"
+  background_image: images/header.jpg
   background_image_opacity: 65
   content: |-
     # Real, beautiful plants right to your door
@@ -34,7 +34,6 @@ sections:
   featured_categories:
   - content/category/bigplants.md
   - content/category/cactuses.md
-  title: ''
 - type: testimonials_section
   template: testimonials_section
   section_id: testimonials_section
@@ -73,37 +72,25 @@ seo:
   - name: og:type
     value: website
     keyName: property
-    relativeUrl: false
   - name: og:title
     value: Planty Theme
     keyName: property
-    relativeUrl: false
   - name: og:description
     value: The preview of the Planty theme
     keyName: property
-    relativeUrl: false
   - name: og:image
     value: images/header.jpg
     keyName: property
     relativeUrl: true
   - name: twitter:card
     value: summary_large_image
-    keyName: ''
-    relativeUrl: false
   - name: twitter:title
     value: Planty Theme
-    keyName: ''
-    relativeUrl: false
   - name: twitter:description
     value: The preview of the Planty theme
-    keyName: ''
-    relativeUrl: false
   - name: twitter:image
     value: images/header.jpg
     relativeUrl: true
-    keyName: ''
-  robots: []
 layout: home
-page_css_class: ''
 
 ---
