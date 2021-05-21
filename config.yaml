@@ -20,7 +20,7 @@ params:
       title: About
       url: /about
       style: link
-      arrow: true
+      arrow: false
     - type: action
       template: action
       title: FAQ
