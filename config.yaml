@@ -19,7 +19,7 @@ params:
       template: action
       title: About
       url: /about
-      style: link
+      style: primary
     - type: action
       template: action
       title: FAQ
