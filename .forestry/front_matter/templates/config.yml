@@ -40,7 +40,7 @@ fields:
     name: snipcart_api_key
     label: Snipcart public API key
     config:
-      required: true
+      required: false
   - type: file
     name: favicon
     label: Favicon
