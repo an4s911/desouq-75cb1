@@ -1,34 +1,38 @@
+---
 title: deSouq
-baseURL: /
+baseURL: "/"
 params:
   palette: yellow
-  snipcart_api_key: ''
-  favicon: /images/deSouq logo SM.jpg
-  logo_light: /images/cool-whale.jpg
-  bg_image_primary: /images/deSouq text rasterized layer.png
+  snipcart_api_key: '000'
+  favicon: "/images/deSouq logo SM.jpg"
+  logo_light: "/images/cool-whale.jpg"
+  bg_image_primary: "/images/deSouq text rasterized layer.png"
   bg_image_primary_opacity: 60
-  bg_image_secondary: /images/magnificent-velociraptor.png
-  bg_image_product: /images/dS logo 9.png
+  bg_image_secondary: "/images/magnificent-velociraptor.png"
+  bg_image_product: "/images/dS logo 9.png"
   main_menu:
-    - type: action
-      template: action
-      title: Store
-      url: /store
-      style: link
-    - type: action
-      template: action
-      title: About
-      url: /about
-      style: link
-      arrow: false
+  - type: action
+    template: action
+    title: Store
+    url: "/store"
+    style: link
+    arrow: false
+  - type: action
+    template: action
+    title: About
+    url: "/about"
+    style: link
+    arrow: false
   footer_text: Copyright 2021 deSouq. All rights reserved.
-  domain: 'https://desouq-75cb1.netlify.app'
+  domain: https://desouq-75cb1.netlify.app
+  logo_dark: ''
+  hamburger_background_image: ''
 taxonomies:
   stub: stub
 disableKinds:
-  - RSS
-  - taxonomy
-  - taxonomyTerm
+- RSS
+- taxonomy
+- taxonomyTerm
 markup:
   goldmark:
     renderer:
