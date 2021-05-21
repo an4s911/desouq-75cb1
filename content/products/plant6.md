@@ -36,6 +36,7 @@ seo:
     value: images/plant6-lg.jpg
     relativeUrl: true
 layout: product
+draft: true
 
 ---
 # Donec finibus

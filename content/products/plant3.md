@@ -37,6 +37,7 @@ seo:
     value: images/plant3-lg.jpg
     relativeUrl: true
 layout: product
+draft: true
 
 ---
 # Curabitur eu tempor
