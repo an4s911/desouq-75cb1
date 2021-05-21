@@ -21,7 +21,7 @@ params:
       url: /about
       style: link
       arrow: false
-  footer_text: Copyright 2021 Planty Inc. All rights reserved.
+  footer_text: Copyright 2021 deSouq. All rights reserved.
   domain: 'https://desouq-75cb1.netlify.app'
 taxonomies:
   stub: stub
