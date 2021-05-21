@@ -30,5 +30,6 @@ seo:
     value: images/plant2-lg.jpg
     relativeUrl: true
 layout: category
+draft: true
 
 ---
